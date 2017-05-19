@@ -1,5 +1,5 @@
 # R-PI-Workshop
-materials
+WORKSHOP MATERIALS
 
 In this repository you can find all material needed for the workshop
 
