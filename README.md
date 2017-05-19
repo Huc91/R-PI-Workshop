@@ -36,7 +36,7 @@ Let's make a file to hold the script
 
 Let's edit it  
   `sudo nano rezine.py`
-  Copy & Paste from Atom  
+  Copy & Paste from Atom   
   Nano basic control:  
     *ctrl+o to save  
     ctrl+x to exit*  
