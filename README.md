@@ -1,9 +1,14 @@
 # R-PI-Workshop
 **WORKSHOP MATERIALS**
 
-In this repository you can find all material needed for the workshop  
+In this repository you can find all material needed for the R-PI-Workshop
 
-MAIN STEPS (Only Mac OS X)
+What you'll learn:
+_Python [get started]
+_Raspberry Pi [get started]
+
+
+MAIN STEPS (Mac OS X)
 
 SSH into the Pi --> ssh pi@<raspberry-ip>  
 	*usr   pi  
